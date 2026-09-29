@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am a final-year Pharmacology BSc student bridging the gap between clinical domain knowledge and robust data pipelines. My focus is on transforming chaotic, real-world medical logs into standardised, audit-ready dataset structures (`SDTM` and `ADaM`) suitable for FDA regulatory submissions.
+I am a final-year Pharmacology BSc student bridging the gap between clinical data programming and standardisation. My focus is on transforming chaotic, real-world medical logs into standardised, clinical-trial dataset structures (`SDTM` and `ADaM`) that align with clinical-trial data standards used in regulatory submissions.
 
 * **Tech Stack:** R (Tidyverse, Pharmaverse), SAS Base (Macros, PROC SQL), SQL (SQLite, PostgreSQL), Git/GitHub, Linux Bash.
 * **Domain Focus:** Clinical Trial Protocols, MedDRA/WHODrug coding, CDISC Compliance, Real-World Evidence (RWE).
